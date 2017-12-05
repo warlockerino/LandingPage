@@ -1,0 +1,37 @@
+.bg{
+    background-color: #002b36; 
+}
+.bg_high{
+    background-color: #073642; 
+}
+.comment{
+    background-color: #586e75; 
+}
+.yw a{
+    color: #b58900;
+}
+.yw h1{
+    color: #b58900;
+}
+.yw p{
+    color: #b58900;
+}
+
+.mg{
+    color: #d33682;
+}
+
+.or{
+    color: #cb4b16;
+}
+.cy{
+    color: #2aa198;
+}
+.gr{
+    color: #859900;
+}
+body{
+    background-color: #586e75;
+    color:#b58900;
+    
+}
